@@ -1,1 +1,1 @@
-# Yandex-Praktikum-DA
+# Yandex_Praktikum_DA
