@@ -9,4 +9,4 @@
 
 ## Библиотеки 🛠️
 
-`Pandas` `Matplotlib` `NumPy`
+`Python` `Pandas` `Matplotlib` `NumPy`
